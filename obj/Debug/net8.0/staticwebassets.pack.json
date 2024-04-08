@@ -1,0 +1,185 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PetAdoptionProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PetAdoptionProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\animal-bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\animal-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\bird.jpg",
+      "PackagePath": "staticwebassets\\Images\\bird.jpg"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\call.png",
+      "PackagePath": "staticwebassets\\Images\\call.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\cat.jpg",
+      "PackagePath": "staticwebassets\\Images\\cat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\client-bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\client-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\client.png",
+      "PackagePath": "staticwebassets\\Images\\client.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\dog.jpg",
+      "PackagePath": "staticwebassets\\Images\\dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\dog.png",
+      "PackagePath": "staticwebassets\\Images\\dog.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\f1.png",
+      "PackagePath": "staticwebassets\\Images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\f2.png",
+      "PackagePath": "staticwebassets\\Images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\f3.png",
+      "PackagePath": "staticwebassets\\Images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\fb.png",
+      "PackagePath": "staticwebassets\\Images\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\fish.jpg",
+      "PackagePath": "staticwebassets\\Images\\fish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\heading-img.png",
+      "PackagePath": "staticwebassets\\Images\\heading-img.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\hero-bg2.png",
+      "PackagePath": "staticwebassets\\Images\\hero-bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\instagram.png",
+      "PackagePath": "staticwebassets\\Images\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\link-arrow.png",
+      "PackagePath": "staticwebassets\\Images\\link-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\linkedin.png",
+      "PackagePath": "staticwebassets\\Images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\mail.png",
+      "PackagePath": "staticwebassets\\Images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\next-angle.png",
+      "PackagePath": "staticwebassets\\Images\\next-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\next.png",
+      "PackagePath": "staticwebassets\\Images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\omega.png",
+      "PackagePath": "staticwebassets\\Images\\omega.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\pet-bg.png",
+      "PackagePath": "staticwebassets\\Images\\pet-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\pet-img.png",
+      "PackagePath": "staticwebassets\\Images\\pet-img.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\pet1.png",
+      "PackagePath": "staticwebassets\\Images\\pet1.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\pet2.png",
+      "PackagePath": "staticwebassets\\Images\\pet2.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\prev-angle.png",
+      "PackagePath": "staticwebassets\\Images\\prev-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\prev.png",
+      "PackagePath": "staticwebassets\\Images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\quote.png",
+      "PackagePath": "staticwebassets\\Images\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\search-icon.png",
+      "PackagePath": "staticwebassets\\Images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\shield.png",
+      "PackagePath": "staticwebassets\\Images\\shield.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\slider-img.png",
+      "PackagePath": "staticwebassets\\Images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\Images\\twitter.png",
+      "PackagePath": "staticwebassets\\Images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\armin\\OneDrive\\Рабочий стол\\PetAdoption\\PetAdoptionProject\\wwwroot\\new.css",
+      "PackagePath": "staticwebassets\\new.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PetAdoptionProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PetAdoptionProject.props",
+      "PackagePath": "build\\PetAdoptionProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PetAdoptionProject.props",
+      "PackagePath": "buildMultiTargeting\\PetAdoptionProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PetAdoptionProject.props",
+      "PackagePath": "buildTransitive\\PetAdoptionProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

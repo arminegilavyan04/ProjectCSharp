@@ -1,0 +1,99 @@
+.page[b-bid5t8ho9l] {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+main[b-bid5t8ho9l] {
+    flex: 1;
+}
+
+.sidebar[b-bid5t8ho9l] {
+    width: 250px;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    background: linear-gradient(180deg, #ffea00 0%, #ffd300 70%);
+}
+
+.top-row[b-bid5t8ho9l] {
+    background-color: #ffea00;
+    border-bottom: 1px solid #d6d5d5;
+    justify-content: flex-end;
+    height: 3.5rem;
+    display: flex;
+    align-items: center;
+}
+
+    .top-row a[b-bid5t8ho9l],
+    .top-row .btn-link[b-bid5t8ho9l] {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+        color: #333;
+    }
+
+        .top-row a:hover[b-bid5t8ho9l],
+        .top-row .btn-link:hover[b-bid5t8ho9l] {
+            text-decoration: underline;
+        }
+
+        .top-row a:first-child[b-bid5t8ho9l] {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+@media (max-width: 640.98px) {
+    .top-row[b-bid5t8ho9l] {
+        justify-content: space-between;
+    }
+
+        .top-row a[b-bid5t8ho9l],
+        .top-row .btn-link[b-bid5t8ho9l] {
+            margin-left: 0;
+        }
+}
+
+@media (min-width: 641px) {
+    .page[b-bid5t8ho9l] {
+        flex-direction: row;
+    }
+
+    .top-row[b-bid5t8ho9l] {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+        background-color: #ffea00;
+    }
+
+        .top-row.auth a:first-child[b-bid5t8ho9l] {
+            flex: 1;
+            text-align: right;
+            width: 0;
+        }
+
+    .top-row[b-bid5t8ho9l],
+    article[b-bid5t8ho9l] {
+        padding-left: 2rem !important;
+        padding-right: 1.5rem !important;
+    }
+}
+
+#blazor-error-ui[b-bid5t8ho9l] {
+    background: #ffea00; /* Changed to match the top-row background */
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss[b-bid5t8ho9l] {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }

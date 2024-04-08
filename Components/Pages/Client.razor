@@ -1,0 +1,52 @@
+﻿@page "/client"
+@rendermode InteractiveServer
+
+<form style="max-width: 400px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; border-radius: 5px;">
+    <div class="container">
+        <h2 style="text-align: center;">Sign Up</h2>
+        <p style="text-align: center;">Dear Client, Please fill in this form to create an account and become a client.</p>
+        <hr>
+
+        <label for="email"><b>First Name</b></label>
+        <input type="text" placeholder="Enter FirstName" name="name" style="width: 100%; padding: 10px; margin-bottom: 15px;" required>
+
+        <label for="email"><b>Last Name</b></label>
+        <input type="text" placeholder="Enter LastName" name="name" style="width: 100%; padding: 10px; margin-bottom: 15px;" required>
+
+        <label for="email"><b>Address</b></label>
+        <input type="text" placeholder="Enter Your Address" name="name" style="width: 100%; padding: 10px; margin-bottom: 15px;" required>
+
+        <label for="email"><b>PetType</b></label>
+        <input type="text" placeholder="Enter Prefered Pet Type" name="name" style="width: 100%; padding: 10px; margin-bottom: 15px;" required>
+
+        <label for="phone"><b>Telephone</b></label>
+        <input type="tel" id="phone" placeholder="Enter Your Phone Number" name="phone" style="width: 100%; padding: 10px; margin-bottom: 15px;" required>
+
+        <label for="email"><b>Email</b></label>
+        <input type="text" placeholder="Enter Email" name="email" style="width: 100%; padding: 10px; margin-bottom: 15px;" required>
+
+        <label for="psw"><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="psw" style="width: 100%; padding: 10px; margin-bottom: 15px;" required>
+
+        <label for="psw-repeat"><b>Repeat Password</b></label>
+        <input type="password" placeholder="Repeat Password" name="psw-repeat" style="width: 100%; padding: 10px; margin-bottom: 15px;" required>
+
+        <label style="display: block;">
+            <input type="checkbox" checked="checked" name="remember" style="margin-bottom: 15px;"> Remember me
+        </label>
+
+        <p style="text-align: center;">By creating an account you agree to our <a href="#" style="color: dodgerblue;">Terms & Privacy</a>.</p>
+
+        <div class="clearfix">
+            <button type="button" class="cancelbtn" style="width: 50%; float: left; margin-right: 5%;">Cancel</button>
+            <br>
+            <br>
+            <button type="submit" class="btn btn-primary" style="width: 50%; float: left;">Sign Up</button>
+        </div>
+    </div>
+</form>
+
+
+@code {
+
+    }
