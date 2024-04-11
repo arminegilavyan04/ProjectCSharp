@@ -1,14 +1,23 @@
 using Microsoft.EntityFrameworkCore;
 using PetAdoptionProject.Components;
 using PetAdoptionProject.Data;
+using PetAdoptionProject.Services;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddScoped<authService>();
+builder.Services.AddScoped<DataContext>();
+builder.Services.AddRazorPages();
+builder.Services.AddServerSideBlazor();
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
-builder.Services.AddDbContext<DataContext>(options => 
+
+
+
+builder.Services.AddDbContext<DataContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 var app = builder.Build();
